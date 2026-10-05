@@ -1,4 +1,4 @@
 # practice
 This is a practice website
 
-Hello bro, this is adeel ahmed  
+Hello bro, this is Adeel Ahmed  
